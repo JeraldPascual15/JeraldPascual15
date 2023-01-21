@@ -1,7 +1,5 @@
 [![@JeraldPascual15](https://raw.githubusercontent.com/JeraldPascual15/JeraldPascual15/main/INDEXX.gif)](https://www.facebook.com/simn.ghst.rily.141)
 
-<br>
-
 ### Interact with me in my Socials :
   <a href="https://www.instagram.com/iamjerald55/" target>
     <img src="https://img.shields.io/badge/iamjerald55-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
