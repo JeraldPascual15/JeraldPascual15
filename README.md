@@ -20,7 +20,7 @@
   </div>
   <h1 align="center">
   Haloo
-  <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="65px"/>
 </h1>
   <hr>
   
