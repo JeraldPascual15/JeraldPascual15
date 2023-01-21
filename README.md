@@ -49,3 +49,4 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeraldPascual15&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
 <br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JeraldPascual15)](https://git.io/streak-stats)
