@@ -54,6 +54,7 @@
 
 ---
 ### :fire: My Stats :
+<img source="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeraldPascual15&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeraldPascual15&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
