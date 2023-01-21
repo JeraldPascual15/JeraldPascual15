@@ -16,7 +16,7 @@
 
   <h2>:technologist:ABOUT ME :</h2>
 </h1>
- 
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" align="right" width="150">
   -I am currently a Grade 10 student :student:
   <br>
   <br>
