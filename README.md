@@ -24,5 +24,5 @@
   
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WaEbWomVfi3kZ4QbxT/giphy.gif" width="600" height="300"/>
+  <img src="https://chillcrafting.tumblr.com/image/620459444331036672" width="600" height="300"/>
 </div>
