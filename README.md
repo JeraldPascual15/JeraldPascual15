@@ -31,6 +31,7 @@
 <div id="about me">
   <h2>:technologist:ABOUT ME:</h2>
   I am a 10th grade student:student: learning web development
+  <br>
   <ul>
     <li>:mag_right:Adventuring in the world of Web Development</li>
     <br>
