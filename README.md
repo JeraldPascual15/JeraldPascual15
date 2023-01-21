@@ -1,9 +1,8 @@
-<h1 align="center">
+<div id="header" align="center">
+  <h1 align="center">
   Haloo
   <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50px"/>
 </h1>
-
-<div id="header" align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500"/>
 </div>
 
