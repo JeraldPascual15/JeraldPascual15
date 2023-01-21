@@ -1,7 +1,4 @@
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
-</div>
+[![@carlcastanas]("https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif")](https://www.facebook.com/simn.ghst.rily.141)
 
 <div id="badges" align="center">
   <a href="https://www.facebook.com/simn.ghst.rily.141">
