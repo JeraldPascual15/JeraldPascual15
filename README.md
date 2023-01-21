@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500"/>
 </div>
 
-<div id="header2" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://www.instagram.com/iamjerald55/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
