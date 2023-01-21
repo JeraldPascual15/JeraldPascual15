@@ -2,7 +2,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.instagram.com/iamjerald55/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Jerald&logoColor=white">
   </a>
   <a href="https://www.facebook.com/simn.ghst.rily.141">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
