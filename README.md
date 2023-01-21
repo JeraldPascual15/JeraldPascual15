@@ -1,4 +1,8 @@
 
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/KWcGnX2iz0G1fMMHrO/giphy.gif)" width="600" height="300"/>
+</div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="320"/>
 </div>
@@ -17,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=Jerald-Pascual-15&style=flat-square&color=blue" alt="View Count"/>
   </div>
 
-<h1>
+<h1 id="hey there" align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
