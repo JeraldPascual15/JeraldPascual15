@@ -1,6 +1,7 @@
 [![@JeraldPascual15](https://raw.githubusercontent.com/JeraldPascual15/JeraldPascual15/main/Index.gif)](https://www.facebook.com/simn.ghst.rily.141)
 
 <div id="badges" align="center">
+  SOCIALS
   <a href="https://www.instagram.com/iamjerald55/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
