@@ -26,11 +26,11 @@
   <br>
   <br>
   <ul>
-    <li>:mag_right:Adventuring in the world of Web Development</li>
+    <li>:compass:Wandering in the internet is my hobby</li>
     <br>
     <li>:loud_sound:I like music especially the soundtracks like one from the LOTR</li>
         <br>
-    <li>:desktop_computer:I love technology</li>
+    <li>:desktop_computer:I love playing games,watching videos and coding</li>
   </ul>
   </div>
   
