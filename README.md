@@ -19,6 +19,8 @@
   <img src="https://komarev.com/ghpvc/?username=Jerald-Pascual-15&style=flat-square&color=blue" alt="View Count"/>
   </div>
   
+  <hr>
+  
 <div align="center">
   <img src="https://64.media.tumblr.com/3050089750e85f34aac5d2b08d50453a/72461282b15b99f9-35/s1280x1920/784fdb27877c49f112de25fdb92742c54c8f9518.gifv" width="600" height="300"/>
 </div>
