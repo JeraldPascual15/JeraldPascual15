@@ -1,8 +1,4 @@
 
-<div align="center">
-  <img src="https://media.giphy.com/media/WaEbWomVfi3kZ4QbxT/giphy.gif" width="600" height="300"/>
-</div>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="320"/>
 </div>
@@ -26,3 +22,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WaEbWomVfi3kZ4QbxT/giphy.gif" width="600" height="300"/>
+</div>
