@@ -1,7 +1,8 @@
 [![@JeraldPascual15](https://raw.githubusercontent.com/JeraldPascual15/JeraldPascual15/main/INDEXX.gif)](https://www.facebook.com/simn.ghst.rily.141)
 
-# Socials :
-<div id="badges" align="">
+<br>
+
+### Interact with me in my Socials :
   <a href="https://www.instagram.com/iamjerald55/" target>
     <img src="https://img.shields.io/badge/iamjerald55-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
@@ -14,15 +15,11 @@
   <a href="https://twitter.com/JeraldPascual55">
   <img src="https://img.shields.io/badge/JeraldPascual55-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
- <br>
-  </div>
-  
 
-<div id="about me">
-  <h2>:technologist:ABOUT ME:</h2>
+  <h2>:technologist:ABOUT ME :</h2>
 </h1>
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" align="right" width="150">
-  I am a 10th grade student :student: learning web development
+  -I am a 10th grade student :student: learning web development
   <br>
   <br>
   <ul>
@@ -32,11 +29,10 @@
         <br>
     <li>:desktop_computer:I love playing games,watching videos and coding</li>
   </ul>
-  </div>
   
   ---
   
-  ### :hammer_and_wrench: Languages and Tools:
+  ### :hammer_and_wrench: Languages and Tools I Use :
   <div id="languages and tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
