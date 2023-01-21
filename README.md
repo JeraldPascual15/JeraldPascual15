@@ -1,4 +1,4 @@
-[![@JeraldPascual15](https://www.canva.com/design/DAFYRiZCbCw/99L67VOjxxwhDWnknsrLVA/edit?utm_content=DAFYRiZCbCw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.facebook.com/simn.ghst.rily.141)
+[![@JeraldPascual15]](https://www.facebook.com/simn.ghst.rily.141)
 
 <div id="badges" align="center">
   <a href="https://www.instagram.com/iamjerald55/">
