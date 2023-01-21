@@ -1,10 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500"/>
 </div>
-  <h1 align="center">
-  Haloo
-  <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50px"/>
-</h1>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/iamjerald55/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -21,6 +17,11 @@
  <br>
   <img src="https://komarev.com/ghpvc/?username=Jerald-Pascual-15&style=flat-square&color=blue" alt="View Count"/>
   </div>
+  
+   <h1 align="center">
+  Haloo
+  <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50px"/>
+</h1>
   
   <hr>
   
