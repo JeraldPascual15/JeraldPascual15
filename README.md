@@ -30,10 +30,10 @@
 
 <div id="about me">
   <h2>:technologist:ABOUT ME:</h2>
-  I am a 10th grade student learning web development
+  I am a 10th grade student:student: learning web development
   <ul>
-    <li>:student:</li>
+    <li>Adventuring in the world of Web Development</li>
     <li>:loud_sound:I like music especially the soundtracks like one from the LOTR</li>
-    <li>:desktop_computer:I love technology</li>
+    <li>:desktop_computer:I love tech especially playing games</li>
   </ul>
   </div>
