@@ -51,4 +51,4 @@
 <br>
 
 ### :eyes: View Count :
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=JeraldPascual15&label=Profile%20views&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="View-Counter" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JeraldPascual15&label=Profile%20views&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="View-Counter" /> </p>
