@@ -17,7 +17,7 @@
   <h2>:technologist:ABOUT ME :</h2>
 </h1>
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" align="right" width="150">
-  -I am a 10th grade student :student: learning web development
+  -I am currently a Grade 10 student :student:
   <br>
   <br>
   <ul>
@@ -25,12 +25,12 @@
     <br>
     <li>:loud_sound:I like music especially the soundtracks like one from the LOTR</li>
         <br>
-    <li>:desktop_computer:I love playing games,watching videos and coding</li>
+    <li>:desktop_computer:I love playing games,watching videos, and coding</li>
   </ul>
   
   ---
   
-  ### :hammer_and_wrench: Languages and Tools I Use :
+  ### :hammer_and_wrench: Languages and Tools I use :
   <div id="languages and tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
