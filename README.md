@@ -48,7 +48,7 @@
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeraldPascual15&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeraldPascual15&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
   <img src="https://komarev.com/ghpvc/?username=Jerald-Pascual-15&style=flat-square&color=blue" alt="View Count"/>
