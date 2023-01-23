@@ -1,8 +1,4 @@
 [![@JeraldPascual15](https://raw.githubusercontent.com/JeraldPascual15/JeraldPascual15/main/Gh%C3%B8st.gif)](https://www.facebook.com/simn.ghst.rily.141)
-
-<div>
-<img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" align="left" width="150">
-  </div>
   
 ### Interact with Me :
   <a href="https://www.instagram.com/iamjerald55/" target>
@@ -22,6 +18,7 @@
 
   <h2>:technologist: QUICK FACTS :</h2>
 </h1>
+<img src="https://raw.githubusercontent.com/JeraldPascual15/JeraldPascual15/main/Snippet.gif" align="right" width="320">
   -I am currently a Grade 10 student :student:.
   <br>
   <br>
