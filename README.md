@@ -18,7 +18,6 @@
 
   <h2>:technologist: QUICK FACTS :</h2>
 </h1>
-<img src="https://raw.githubusercontent.com/JeraldPascual15/JeraldPascual15/main/Snippet.gif" align="right" width="350" heigh="200">
   -I am currently a Grade 10 student :student:.
   <br>
   <br>
