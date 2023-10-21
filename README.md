@@ -1,4 +1,4 @@
-[![@JeraldPascual15](https://raw.githubusercontent.com/JeraldPascual15/JeraldPascual15/main/Github%20Banner.gif)](https://www.facebook.com/Jerald.Pascual.15)
+[![@JeraldPascual](https://raw.githubusercontent.com/JeraldPascual15/JeraldPascual15/main/Github%20Banner.gif)](https://www.facebook.com/Jerald.Pascual.15)
   
 ### Interact with Me :
   <a href="https://www.instagram.com/iamjerald55/" target>
@@ -31,9 +31,9 @@
 
 ---
 ### :fire: My Stats :
-![JeraldPascual15 GitHub stats](https://github-readme-stats.vercel.app/api?username=JeraldPascual15&show_icons=true&theme=radical)
+![JeraldPascual GitHub stats](https://github-readme-stats.vercel.app/api?username=JeraldPascual&show_icons=true&theme=radical)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeraldPascual15&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeraldPascual&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
