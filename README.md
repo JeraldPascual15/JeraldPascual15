@@ -1,7 +1,7 @@
 [![@JeraldPascual](https://raw.githubusercontent.com/JeraldPascual15/JeraldPascual15/main/Github%20Banner.gif)](https://www.facebook.com/Jerald.Pascual.15)
   
 ### Interact with Me :
-  <a href="https://www.instagram.com/JeraldPascual_/" target>
+  <a href="https://www.instagram.com/JeraldPascual_/" >
     <img src="https://img.shields.io/badge/JeraldPascual_-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.facebook.com/Jerald.Pascual.15">
