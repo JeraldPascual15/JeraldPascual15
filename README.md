@@ -40,14 +40,3 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40">&nbsp;
 </div>
 </div>
-
----
-### 🔥 My Stats :
-![JeraldPascual GitHub stats](https://github-readme-stats.vercel.app/api?username=JeraldPascual&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeraldPascual&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 👀 View Count :
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JeraldPascual15&label=Profile%20views&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="View-Counter" /> </p>
