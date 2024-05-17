@@ -1,2 +1,2 @@
-[![@JeraldPascual](https://i.postimg.cc/sfWLCWjn/JERALDPASCUAL.png)](https://www.facebook.com/Jerald.Pascual.15)
+[![@JeraldPascual](https://i.postimg.cc/rsR4GnKz/JERALDPASCUAL.png)](https://www.facebook.com/Jerald.Pascual.15)
   
